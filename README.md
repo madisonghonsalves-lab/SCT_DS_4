@@ -7,7 +7,6 @@ This project focuses on analyzing traffic accident data to identify patterns rel
 
 The goal is to extract meaningful insights from accident data using Exploratory Data Analysis (EDA) and visualization techniques.
 
----
 
 ## Dataset
 
@@ -20,7 +19,6 @@ The dataset contains information about:
 - Severity
 - Road-related factors
 
----
 
 ## Technologies Used
 
@@ -29,7 +27,6 @@ The dataset contains information about:
 - Matplotlib
 - Seaborn
 
----
 
 ## Analysis Performed
 
@@ -55,10 +52,8 @@ Identified accident-prone locations using latitude and longitude.
 ### 6. City-wise Accident Analysis
 Found cities with the highest number of accidents.
 
----
 
 ## Results
 
 The analysis helped identify important patterns and contributing factors behind traffic accidents using data visualization.
 
----
